@@ -2,7 +2,7 @@
 This application uses API Flash.
 https://apiflash.com/documentation
 
-A simple golang application that screenshots a webpage.
+A simple Golang application that screenshots a webpage.
 The screenshot is saved as a screenshot.jpeg file.
 
 Example: 
